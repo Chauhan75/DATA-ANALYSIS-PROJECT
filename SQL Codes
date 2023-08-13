@@ -1,0 +1,13 @@
+ Demographic Insights 
+
+a. Who prefers energy drink more? (male/female/non-binary?)
+
+select  gender, count(*) as gender_count
+from dim_repondents dr
+join fact_survey_responses fsc
+on dr.respondent_id = fsc.Respondent_ID
+where Consume_frequency in ('2-3 times a week','2-3 times a month','Rarely','Daily','Once a week')
+group by gender
+order by gender_count desc;
+
+
