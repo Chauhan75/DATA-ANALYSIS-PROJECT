@@ -4,4 +4,4 @@
 
 Presentation link: https://drive.google.com/file/d/1OLBnVtT1z17lV-miWVDQvR1TO1VBWUsI/view?usp=sharing
 
-Dashboard link : https://www.novypro.com/project/codex--providing-insights-to-food--beverage-company-power-bi
+Dashboard link: https://www.novypro.com/project/codex--providing-insights-to-food--beverage-company-power-bi
